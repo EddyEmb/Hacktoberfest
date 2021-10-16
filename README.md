@@ -19,7 +19,7 @@ Veja todas as regras em https://hacktoberfest.digitalocean.com/
 ## Participantes
 - [Nome Completo](https://github.com/username)
 - [Raimundo Molide](https://github.com/raymolide)
-
+- [Edimilson Baltazar](https://github.com/eddyemb)
 
 ### Adiciona o teu nome
 
