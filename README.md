@@ -16,7 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
-- [Edimilson Baltazar](https://github.com/eddyemb)
+- [Edimilson Baltazar ](https://github.com/eddyemb)
 
 ### Adiciona o teu nome
 
